@@ -46,6 +46,3 @@ Output format:
 You can download the compiled JAR file directly from:
 [Download JAR](https://github.com/YOUR_USERNAME/BajajChallenge/raw/main/destination-hash-generator-1.0-SNAPSHOT-jar-with-dependencies.jar)
 
-## Requirements
-- Java 11 or higher
-- Input JSON file must be accessible
