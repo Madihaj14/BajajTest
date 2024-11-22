@@ -44,5 +44,14 @@ Output format:
 
 ## Direct Download
 You can download the compiled JAR file directly from:
-[Download JAR](https://github.com/YOUR_USERNAME/BajajChallenge/raw/main/destination-hash-generator-1.0-SNAPSHOT-jar-with-dependencies.jar)
+[Download JAR](PS C:\Users\Lenovo\Downloads\Programming\bajajtest> java -jar C:\Users\Lenovo\Downloads\Programming\bajajtest\target\hash-generator-1.0-SNAPSHOT-jar-with-dependencies.jar 240350000046 ..\src\main\resources\test.json
+Error: ..\src\main\resources\test.json (The system cannot find the path specified)
+java.io.FileNotFoundException: ..\src\main\resources\test.json (The system cannot find the path specified)
+        at java.base/java.io.FileInputStream.open0(Native Method)
+        at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+        at java.base/java.io.FileInputStream.<init>(FileInputStream.java:159)
+        at com.fasterxml.jackson.core.TokenStreamFactory._fileInputStream(TokenStreamFactory.java:278)
+        at com.fasterxml.jackson.core.JsonFactory.createParser(JsonFactory.java:1089)
+        at com.fasterxml.jackson.databind.ObjectMapper.readTree(ObjectMapper.java:3252)
+        at com.bajaj.challenge.Main.main(Main.java:24))
 
