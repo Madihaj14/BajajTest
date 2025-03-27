@@ -1,4 +1,4 @@
-# Bajaj Health Programming Challenge Solution
+# Bajaj  Programming Challenge Solution
 
 This application processes a JSON file to find the first occurrence of a "destination" key and generates an MD5 hash of concatenated values.
 
