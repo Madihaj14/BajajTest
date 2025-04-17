@@ -15,4 +15,3 @@ java -jar destination-hash-generator-1.0-SNAPSHOT-jar-with-dependencies.jar <rol
 ## Direct Download
 You can download the compiled JAR file directly from:
 [Download JAR]([https://github.com/Madihaj14/BajajTest/raw/main/destination-hash-generator-1.0-SNAPSHOT-jar-with-dependencies.jar](https://github.com/Madihaj14/BajajTest/raw/refs/heads/main/target/hash-generator-1.0-SNAPSHOT.jar))
-This repo was built for submission purposes.
